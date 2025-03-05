@@ -10,4 +10,6 @@
 <a class="anchor" id="contact"></a>
 >## Contact Information
 
-<p><a href="https://www.linkedin.com/in/jose-andres-rodriguez-92a81336/" title="Bill Gates">Andres Rodriguez, Linkedin Profile</a></p>
+<p><a href="https://www.linkedin.com/in/jose-andres-rodriguez-92a81336/" title="andres">Andres Rodriguez, Linkedin Profile</a></p>
+
+
