@@ -1,3 +1,3 @@
 # AndresRodriguez.github.io
 ## My Portafolio
-< img src="me.heic" width='300' />
+< img src="me.png" width='300' />
