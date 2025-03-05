@@ -1,5 +1,5 @@
 # AndresRodriguez.github.io
-<img src="IMG_7018.png" title="Andres Rodriguez - html" />
+<img src="IMG_7018.png" title="Andres Rodriguez - html" seze="300"/>
 
 <a class="anchor" id="about_the_project"></a>
 <blockquote><h2>My Portafolio</h2></blockquote>
